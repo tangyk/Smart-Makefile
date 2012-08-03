@@ -1,8 +1,9 @@
-## Smart Makefile for general purpose (Ver 1.0)
-## Author: Yongkang TANG <tangyk{at}gmail>
-## License: FreeBSD 
-## Please use this makefile at YOUR OWN RISK !!!
-
+#################################################################
+# Smart Makefile for compiling C/CPP source  (Ver 1.0)
+# Author: Yongkang TANG <tangyk{at}gmail>
+# License: FreeBSD 
+# Please use this makefile at YOUR OWN RISK !!!
+#################################################################
 CC=g++
 
 # compile flags & include path of third part library.  e.g. CFLAGS= -c -Wall -g -I/any/path/inlude
