@@ -1,4 +1,3 @@
-Smart-Makefile is a smart powerful makefile for compiling c/cpp sources.
 
 #############################################################
 ## Smart Makefile for general purpose (Ver 1.1)
@@ -6,9 +5,11 @@ Smart-Makefile is a smart powerful makefile for compiling c/cpp sources.
 ## License: FreeBSD 
 ## Please use this makefile at YOUR OWN RISK !!!
 #############################################################
+Smart-Makefile is a smart powerful makefile for compiling c/cpp sources.
 This is makefile is free for any purpose, without any without warranty.
 
 Usage:
+
 1, add neccesary compiling flags to CFLAGS.
 
 2, add neccesary libs name and path to LIBS.
