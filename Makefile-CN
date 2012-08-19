@@ -50,7 +50,7 @@ $(1): $(filter-out $(addsuffix .o,$(value $(1)_EXCL)), $(OBJS))
 endef
 
 define CMPL_SRC
-${1}.o:
+${1}.o:${1}
 	${CC} $(CFLAGS) ${1} -o ${1}.o
 endef
 
